@@ -54,5 +54,9 @@ Free Podcasts and Screencasts:
 
  - https://www.cloudimage.io/en/home?utm_souce=google_competitor_cloudinary&gclid=CjwKCAiAjp6BBhAIEiwAkO9WugOgmj6a1vzTv9M1746og6ZYzLYEr3f8xvi2ntXcXUG4Cl9ZnyQozRoCwvkQAvD_BwE
 
+ - Gemfile: gem 'cloudinary'
+
+ - uploaders -> image_uploader.rb -> include Cloudinary::CarrierWave
+
  - 
 
