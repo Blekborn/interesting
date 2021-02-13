@@ -28,29 +28,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 
 ### In Other Spoken Languages
-+ Azerbaijan: [github](/free-programming-books-az.md)
-+ Bulgarian: [github](/free-programming-books-bg.md)
-+ Chinese: [github](/free-programming-books-zh.md)
-+ Czech: [github](/free-programming-books-cs.md)
-+ French: [github](/free-programming-books-fr.md) or [site](http://resrc.io/list/33/livres-gratuits-sur-la-programmation/).
-    The French list was based on [this](http://progdupeu.pl/forums/sujet/43/une-banque-de-liens) page.
-+ German: [github](/free-programming-books-de.md)
-+ Greek: [github](/free-programming-books-gr.md)
-+ Hungarian: [github](/free-programming-books-hu.md)
-+ Indonesian : [github](/free-programming-books-id.md)
-+ Italian: [github](/free-programming-books-it.md)
-+ Japanese: [github](/free-programming-books-ja.md)
-+ Korean: [github](/free-programming-books-ko.md)
-+ Persian/Farsi (Iran): [github](/free-programming-books-fa_IR.md)
-+ Polish: [github](/free-programming-books-pl.md)
-+ Portuguese (Brazil): [github](/free-programming-books-pt_BR.md)
-+ Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
-+ Romanian (Romania): [github](/free-programming-books-ro.md)
 + Russian: [github](/free-programming-books-ru.md)
-+ Slovak: [github](/free-programming-books-sk.md)
-+ Spanish: [github](/free-programming-books-es.md)
-+ Swedish: [github](/free-programming-books-se.md)
-+ Turkish: [github](/free-programming-books-tr.md)
 + Ukrainian: [github](/free-programming-books-ua.md)
 
 
@@ -64,10 +42,17 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 ### Podcast - Screencast
 Free Podcasts and Screencasts:
-
-+ Czech: [github](/free-podcasts-screencasts-cs.md)
 + English: [github](/free-podcasts-screencasts-en.md)
 
 
 ### Software Testing Books
 + [Free ebooks about software testing](https://github.com/ligurio/free-software-testing-books)
+
+------------
+
+### Cloudinary
+
+ - https://www.cloudimage.io/en/home?utm_souce=google_competitor_cloudinary&gclid=CjwKCAiAjp6BBhAIEiwAkO9WugOgmj6a1vzTv9M1746og6ZYzLYEr3f8xvi2ntXcXUG4Cl9ZnyQozRoCwvkQAvD_BwE
+
+ - 
+
